@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1337085706 source:e:\我爱你 编程\c++语言\程序源代码\栈类模板\main.cpp
+	"Calculator.h"
+
+1337170288 e:\我爱你 编程\c++语言\程序源代码\栈类模板\calculator.h
+	"Stack.h"
+
+1337170281 e:\我爱你 编程\c++语言\程序源代码\栈类模板\stack.h
+	<cassert>
+
+1337170295 source:e:\我爱你 编程\c++语言\程序源代码\栈类模板\calculator.cpp
+	"Calculator.h"
+	<iostream>
+	<sstream>
+	<cmath>
+
+1337085706 source:d:\我爱你 编程\c++语言\程序源代码\栈类模板\main.cpp
+	"Calculator.h"
+
+1337170288 d:\我爱你 编程\c++语言\程序源代码\栈类模板\calculator.h
+	"Stack.h"
+
+1337170281 d:\我爱你 编程\c++语言\程序源代码\栈类模板\stack.h
+	<cassert>
+
+1337171476 source:d:\我爱你 编程\c++语言\程序源代码\栈类模板\calculator.cpp
+	"Calculator.h"
+	<iostream>
+	<sstream>
+	<cmath>
+

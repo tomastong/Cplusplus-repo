@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1338080629 source:e:\我爱你 编程\c++语言\程序源代码\变步长梯形积分法解函数\main.cpp
+	<iostream>
+	"Trapzint.h"
+	<iomanip>
+
+1338080569 e:\我爱你 编程\c++语言\程序源代码\变步长梯形积分法解函数\trapzint.h
+
+1338080680 source:e:\我爱你 编程\c++语言\程序源代码\变步长梯形积分法解函数\trapzint.cpp
+	"Trapzint.h"
+	<cmath>
+
